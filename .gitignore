@@ -1,0 +1,9 @@
+venv/
+buffer.txt
+**/__pycache__/
+db.sqlite3
+secrets/
+.env
+Dockerfile
+.dockerignore
+staticfiles
